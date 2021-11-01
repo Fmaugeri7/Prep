@@ -1,0 +1,18 @@
+Variables : Una variable es el nombre que se le da a un tipo de dato para guardar ese dato y poder guardarlo
+ y poder llamar a ese dato luego. Hay 5 tipos de variables: Strings, Numbers, Booleans, objetos y funciones.
+Strings: son cadenas de palabras que van entre comillas y están dentro de la variable antes definida.
+Funciones: Las funciones es código, que es reutilizable y se usa para realizar una tarea específica.
+
+
+Argumentos de funciones: Los argumentos son las condiciones que se le dan a una función para que esta se 
+cumpla y funciones como debería.
+
+return: el return es una condición de la función que sirve para cortar la función y devuelva el valor de 
+la misma.
+if: indica verdadero o falso, si una condición cumple con los argumentos de la función.
+booleanos: representa un valor verdadero o falso.
+for: for es un ciclo que se repite hasta que una condición dada sea false.
+&&: esto significa "y", si se cumple esto Y aquello.
+||: esto significa "o", si se cumple esto O aquello.
+!: ! es un operador No lógico,  su función es cambiar la verdad a falsedad y la falsedad en verdad devolviendo
+true o false.
